@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MedGsb</string>
+
+    <!-- Page d'Accueil -->
+    <string name="home_page_title">A decouvrire</string>
+    <string name="home_page_apres">Dernier Medicament</string>
+    <string name="home_page_nom_med">Nom Medicament</string>
+    <string name="home_page_desc_med">Description Médicament</string>
+    <string name="home_page_collection">Ma collection</string>
+
+    <!-- Page d/'ajout médicament -->
+    <string name="ajout_page_title">Ajout d\'un medicament</string>
+    <string name="ajout_page_image">Charger image</string>
+    <string name="ajout_page_nom_input">Nom du Médicament</string>
+    <string name="ajout_page_description_input">Description</string>
+
+    <string-array name="input_ajout">
+        <item>Effet indésirable : Faible</item>
+        <item>Effet indésirable : Moyen</item>
+        <item>Effet indésirable : Fort</item>
+    </string-array>
+
+    <string name="ajout_page_button">Confirmer</string>
+
+
+    <!-- Fenetre PopUp detaille -->
+
+    <string name="popup_page_name">Medicament image</string>
+    <string name="popup_page_desc">Description</string>
+    <string name="popup_page_desc_mini">Petite Description</string>
+    <string name="popup_page_effet">Effet</string>
+    <string name="popup_page_effet_default">Faible</string>
+
+</resources>

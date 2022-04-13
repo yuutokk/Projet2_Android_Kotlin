@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "685770532773",
+    "firebase_url": "https://medgsb-46bdb-default-rtdb.firebaseio.com",
+    "project_id": "medgsb-46bdb",
+    "storage_bucket": "medgsb-46bdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685770532773:android:2f8637655d9b68dcfd6a4c",
+        "android_client_info": {
+          "package_name": "fr.yutok.example.medgsb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685770532773-54ftcursk2k2a7s32fjfagrehnpdtl7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsObd8lQCs6jlSlCovZspvjvMca3fW-ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685770532773-54ftcursk2k2a7s32fjfagrehnpdtl7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
